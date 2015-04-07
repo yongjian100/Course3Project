@@ -1,0 +1,40 @@
+1: mean_body_acc_x_train 
+2: sd_body_acc_x_train 
+3: mean_body_acc_y_train
+4: sd_body_acc_y_train
+5: mean_body_acc_z_train 
+6: sd_body_acc_z_train 
+7: mean_body_gyro_x_train 
+8: sd_body_gyro_x_train
+9: mean_body_gyro_y_train 
+10: sd_body_gyro_y_train 
+11: mean_body_gyro_z_train 
+12: sd_body_gyro_z_train
+13: mean_total_acc_x_train 
+14: sd_total_acc_x_train 
+15: mean_total_acc_y_train 
+16: sd_total_acc_y_train
+17: mean_total_acc_z_train 
+18: sd_total_acc_z_train  
+19: mean_X_train        
+20: sd_X_train      
+21: mean_body_acc_x_test
+22:sd_body_acc_x_test 
+23: mean_body_acc_y_test 
+24: sd_body_acc_y_test 
+25: mean_body_acc_z_test 
+26: sd_body_acc_z_test
+27:mean_body_gyro_x_test 
+28: sd_body_gyro_x_test 
+29: mean_body_gyro_y_test 
+30: sd_body_gyro_y_test 
+31: mean_body_gyro_z_test
+32: sd_body_gyro_z_test 
+33: mean_total_acc_x_test 
+34: sd_total_acc_x_test 
+35: mean_total_acc_y_test 
+36: sd_total_acc_y_test
+37:mean_total_acc_z_test 
+38: sd_total_acc_z_test  
+39: mean_Y_test        
+40: sd_Y_test
